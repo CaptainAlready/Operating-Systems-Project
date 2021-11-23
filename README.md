@@ -19,7 +19,10 @@ More on that akgorithm : https://www.cs.umd.edu/~hollings/cs412/s96/synch/smoker
 <p align="center">
 <a>
   <img src="https://github.com/CaptainAlready/Operating-Systems-Project/blob/main/exampleB%2BTreeShared.png" width="300" height="250">
-  Example of Shared B+ Tree 
 </a> 
+  <br>
+  Example of Shared B+ Tree function
+  which adds all the leaf-values and
+  stores them in a pointer *p
   </p> 
 
