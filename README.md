@@ -20,8 +20,5 @@ More on that akgorithm : https://www.cs.umd.edu/~hollings/cs412/s96/synch/smoker
 <a>
   <img src="https://github.com/CaptainAlready/Data-Manipulation-using-Python/blob/main/Capture2.PNG" alt="Gif" width="250" height="250">
 </a> 
- <a>
-  <img src="https://github.com/CaptainAlready/Data-Manipulation-using-Python/blob/main/Capture.PNG" alt="Gif" width="250" height="250">
-</a> 
   </p> 
 
