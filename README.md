@@ -18,7 +18,7 @@ More on that akgorithm : https://www.cs.umd.edu/~hollings/cs412/s96/synch/smoker
 
 <p align="center">
 <a>
-  <img src="https://github.com/CaptainAlready/Data-Manipulation-using-Python/blob/main/Capture2.PNG" alt="Gif" width="250" height="250">
+  https://github.com/CaptainAlready/Operating-Systems-Project/blob/main/exampleB%2BTreeShared.png
 </a> 
   </p> 
 
