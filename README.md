@@ -18,7 +18,7 @@ More on that akgorithm : https://www.cs.umd.edu/~hollings/cs412/s96/synch/smoker
 
 <p align="center">
 <a>
-  <img src="https://github.com/CaptainAlready/Operating-Systems-Project/blob/main/exampleB%2BTreeShared.png" width="250" height="250">
+  <img src="https://github.com/CaptainAlready/Operating-Systems-Project/blob/main/exampleB%2BTreeShared.png" width="300" height="250">
 </a> 
   </p> 
 
