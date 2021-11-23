@@ -21,8 +21,8 @@ More on that akgorithm : https://www.cs.umd.edu/~hollings/cs412/s96/synch/smoker
   <img src="https://github.com/CaptainAlready/Operating-Systems-Project/blob/main/exampleB%2BTreeShared.png" width="300" height="250">
 </a> 
   <br>
-  Example of Shared B+ Tree function
-  which adds all the leaf-values and
+  Example of Shared B+ Tree function <br>
+  which adds all the leaf-values and <br>
   stores them in a pointer *p
   </p> 
 
